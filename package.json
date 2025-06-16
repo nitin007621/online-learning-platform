@@ -30,6 +30,7 @@
     "jsonrepair": "^3.12.0",
     "lucide-react": "^0.511.0",
     "mime": "^4.0.7",
+    "mongoose": "^8.15.2",
     "next": "15.3.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
