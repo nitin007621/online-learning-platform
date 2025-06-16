@@ -22,17 +22,17 @@ const SideBarOptions = [
     {
         title : 'Dashboard',
         icon: LayoutDashboard,
-        path:"/workspace/"
+        path:"/workspace/#dashboard"
     },
     {
         title : 'My Learning',
         icon: Book,
-        path:"/workspace/my-learning"
+        path:"/workspace/#my-learning"
     },
     {
         title : 'Explore Courses',
         icon: Compass,
-        path:"/workspace/explore"
+        path:"/workspace/#explore"
     },
     {
         title : 'Tools',
